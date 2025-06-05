@@ -1,4 +1,4 @@
-name: Create YouTube Plus app
+name: Create Fordy's YouTube🗿 app
 
 on:
   workflow_dispatch:
@@ -48,13 +48,13 @@ on:
 
       display_name:
         description: "App Name (Optional)"
-        default: "YouTube"
+        default: "YouTube 🗿"
         required: true
         type: string
 
       bundle_id:
         description: "BundleID (Optional)"
-        default: "com.google.ios.youtube"
+        default: "de.heyfordy.ios.youtube"
         required: true
         type: string
 
